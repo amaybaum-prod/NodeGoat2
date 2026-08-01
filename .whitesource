@@ -1,5 +1,8 @@
 {
-  "settingsInheritedFrom": "amaybaum-prod/whitesource-config@main"
+  "settingsInheritedFrom": "amaybaum-prod/whitesource-config@main",
+  "scanSettings": {
+    "releaseBranches": ["*"]
+  }
 }
 
 
